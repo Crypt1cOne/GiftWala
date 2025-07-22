@@ -43,7 +43,7 @@ export const products: Product[] = [
     price: 299,
     sizes: ['11oz', '15oz'],
     materials: ['Ceramic', 'Porcelain'],
-    image: 'https://images.pexels.com/photos/2693208/pexels-photo-2693208.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/6347919/pexels-photo-6347919.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Perfect for your morning coffee or tea. High-quality ceramic mug with smooth finish.',
     features: ['Dishwasher safe', 'Microwave safe', 'Scratch resistant', 'Fade resistant printing']
   },
@@ -55,7 +55,7 @@ export const products: Product[] = [
     price: 399,
     sizes: ['11oz'],
     materials: ['Ceramic'],
-    image: 'https://images.pexels.com/photos/1251175/pexels-photo-1251175.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Romantic heart-shaped handle mug, perfect for expressing love and affection.',
     features: ['Unique heart handle', 'Premium ceramic', 'Gift box included', 'Dishwasher safe']
   },
@@ -67,7 +67,7 @@ export const products: Product[] = [
     price: 499,
     sizes: ['11oz'],
     materials: ['Ceramic with Thermochromic Coating'],
-    image: 'https://images.pexels.com/photos/1405928/pexels-photo-1405928.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/4226796/pexels-photo-4226796.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Magical mug that reveals your photo when hot liquid is poured. Amazing gift idea!',
     features: ['Color changing effect', 'Heat sensitive coating', 'Surprise reveal', 'Special gift packaging']
   },
@@ -81,7 +81,7 @@ export const products: Product[] = [
     price: 199,
     sizes: ['Small (3x2cm)', 'Medium (4x3cm)'],
     materials: ['Stainless Steel', 'Aluminum'],
-    image: 'https://images.pexels.com/photos/1090735/pexels-photo-1090735.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Durable metal keychain with laser engraving. Perfect for keys and bags.',
     features: ['Laser engraved', 'Rust resistant', 'Durable chain', 'Premium finish']
   },
@@ -93,7 +93,7 @@ export const products: Product[] = [
     price: 149,
     sizes: ['Small (3x3cm)', 'Medium (4x4cm)', 'Large (5x5cm)'],
     materials: ['Acrylic'],
-    image: 'https://images.pexels.com/photos/1090736/pexels-photo-1090736.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Crystal clear acrylic keychain with vibrant photo printing. Lightweight and elegant.',
     features: ['Crystal clear', 'UV printing', 'Lightweight', 'Scratch resistant']
   },
@@ -107,7 +107,7 @@ export const products: Product[] = [
     price: 599,
     sizes: ['4x6 inch', '5x7 inch', '8x10 inch', '11x14 inch'],
     materials: ['Pine Wood', 'Oak Wood', 'Bamboo'],
-    image: 'https://images.pexels.com/photos/1090744/pexels-photo-1090744.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Beautiful handcrafted wooden frame with personalized engraving options.',
     features: ['Handcrafted wood', 'Custom engraving', 'Glass protection', 'Stand included']
   },
@@ -119,7 +119,7 @@ export const products: Product[] = [
     price: 2999,
     sizes: ['7 inch', '10 inch', '15 inch'],
     materials: ['Plastic', 'Metal Frame'],
-    image: 'https://images.pexels.com/photos/1090741/pexels-photo-1090741.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg?auto=compress&cs=tinysrgb&w=500',
     description: 'Modern digital frame with slideshow functionality. Perfect for displaying multiple memories.',
     features: ['HD display', 'WiFi connectivity', 'Remote control', 'Multiple format support']
   },
@@ -133,7 +133,7 @@ export const products: Product[] = [
     price: 799,
     sizes: ['8x10 inch', '12x16 inch', '16x20 inch'],
     materials: ['MDF Board'],
-    image: 'https://images.pexels.com/photos/1090742/pexels-photo-1090742.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/1579708/pexels-photo-1579708.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Custom MDF wall art with high-quality printing. Perfect for home decoration.',
     features: ['High-quality MDF', 'Vibrant printing', 'Ready to hang', 'Custom design']
   },
@@ -145,7 +145,7 @@ export const products: Product[] = [
     price: 399,
     sizes: ['Small (4x6 inch)', 'Medium (6x8 inch)'],
     materials: ['MDF Board'],
-    image: 'https://images.pexels.com/photos/1090743/pexels-photo-1090743.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Elegant desk photo stand made from premium MDF. Perfect for office or home.',
     features: ['Stable base', 'Premium MDF', 'Easy to clean', 'Custom printing']
   },
@@ -159,7 +159,7 @@ export const products: Product[] = [
     price: 899,
     sizes: ['8 inch', '10 inch', '12 inch'],
     materials: ['MDF', 'Acrylic', 'Glass'],
-    image: 'https://images.pexels.com/photos/1090745/pexels-photo-1090745.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/1095601/pexels-photo-1095601.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Beautiful round wall clock with your personalized photo. Functional and decorative.',
     features: ['Silent movement', 'Battery operated', 'Custom photo printing', 'Wall mounting kit']
   },
@@ -171,7 +171,7 @@ export const products: Product[] = [
     price: 999,
     sizes: ['8x8 inch', '10x10 inch', '12x12 inch'],
     materials: ['MDF', 'Metal', 'Acrylic'],
-    image: 'https://images.pexels.com/photos/1090746/pexels-photo-1090746.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images.pexels.com/photos/1095601/pexels-photo-1095601.jpeg?auto=compress&cs=tinysrgb&w=500',
     description: 'Contemporary square wall clock with modern design. Perfect for modern homes.',
     features: ['Modern design', 'Precision movement', 'Easy installation', 'Durable materials']
   }

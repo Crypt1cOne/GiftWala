@@ -63,24 +63,24 @@ export const Hero: React.FC = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-4">
                   <img 
-                    src="https://images.pexels.com/photos/2693208/pexels-photo-2693208.jpeg?auto=compress&cs=tinysrgb&w=300"
+                    src="https://images.pexels.com/photos/6347919/pexels-photo-6347919.jpeg?auto=compress&cs=tinysrgb&w=300"
                     alt="Personalized Mug"
                     className="w-full h-40 object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300"
                   />
                   <img 
-                    src="https://images.pexels.com/photos/1090735/pexels-photo-1090735.jpeg?auto=compress&cs=tinysrgb&w=300"
+                    src="https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=300"
                     alt="Custom Keychain"
                     className="w-full h-32 object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300 delay-100"
                   />
                 </div>
                 <div className="space-y-4 pt-8">
                   <img 
-                    src="https://images.pexels.com/photos/1090744/pexels-photo-1090744.jpeg?auto=compress&cs=tinysrgb&w=300"
+                    src="https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg?auto=compress&cs=tinysrgb&w=300"
                     alt="Photo Frame"
                     className="w-full h-32 object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300 delay-200"
                   />
                   <img 
-                    src="https://images.pexels.com/photos/1090745/pexels-photo-1090745.jpeg?auto=compress&cs=tinysrgb&w=300"
+                    src="https://images.pexels.com/photos/1095601/pexels-photo-1095601.jpeg?auto=compress&cs=tinysrgb&w=300"
                     alt="Wall Clock"
                     className="w-full h-40 object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300 delay-300"
                   />
